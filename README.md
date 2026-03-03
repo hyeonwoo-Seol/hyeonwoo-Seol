@@ -1,41 +1,33 @@
-## About Me & Research Interests
+## 🔍 About Me
 
 Hello~! I am HyeonU Seol, an aspiring AI researcher majoring in Computer Engineering at Tech University of Korea (Class of Feb 2027). 
 
-My research interests lie at the intersection of Computer Vision AI and Efficient Deep Learning.
+My research interests lie at the intersection of **Computer Vision AI** and **Efficient Deep Learning**.
 
-## Academic Achievement
+<p align="left">
+  <img src="https://img.shields.io/badge/Tech%20University%20of%20Korea-Computer%20Engineering-004792?style=flat-square&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPA-4.18%20%2F%204.5-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contact-hyeonws0705%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</p>
 
-I maintain  a cumulative GPA of 4.18/4.5.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-My academic foundation is built on core courses including Linear Algebra, Probability and Statistics, Algorithms, Data Structures, Machine Learning, Digital Image Processing, and Deep Learning.
+## 🎓 Academic Achievement
+- **Major:** Computer Engineering
+- **Core Coursework:** Linear Algebra, Probability and Statistics, Machine Learning, Deep Learning, Digital Image Processing, Algorithms, Data Structures
+- **GPA:** 4.18/4.5
 
-## Research Experience
+## 🧪 Research Experience
 
 ### Research Projects (Junior Year)
-- Two-Stream Spatial-Temporal Transformer for Action Recognition
-  - Objective: Focused on Maximizing model performance in Action Recognition Task
-  - Resources: [Notion Link](https://www.notion.so/SlowFast-Spatial-Temporal-Transformer-2ec2a0bdb54f80a691c9faa407b533e0?source=copy_link) and [Github Link](https://github.com/hyeonwoo-Seol/SlowFast-SP-Transformer)
- 
-- MLP-Spatial and Factorized-Temporal Transformer for Action Recognition
-  - Objective: Conducted research on Architectural Efficiency and Optimization for Spatio-Temoral Modeling
-  - Resources: [Notion Link](https://www.notion.so/MLP-Spatial-and-Factorized-Temporal-Transformer-2ec2a0bdb54f80f797c5c1ab8a1ccde0?source=copy_link) and [Github Link](https://github.com/hyeonwoo-Seol/Spatial-MLP-Temporal-Attention)
 
-## Paper Review Experience
+| Project Name | Key Objective & Focus | Resources | Date |
+| :---: | :---: | :---: | :---: |
+| **MLP-Spatial and Factorized-Temporal Transformer for Action Recognition** | **Architectural Efficiency and Optimization for Spatio-Temoral Modeling** | [📝Notion Link](https://www.notion.so/MLP-Spatial-and-Factorized-Temporal-Transformer-2ec2a0bdb54f80f797c5c1ab8a1ccde0?source=copy_link) and [📂Github Link](https://github.com/hyeonwoo-Seol/Spatial-MLP-Temporal-Attention) | 2025.12 ~ 2026.01 |
+| **Two-Stream Spatial-Temporal Transformer for Action Recognition** | **Maximizing model performance in Action Recognition Task** | [📝Notion Link](https://www.notion.so/SlowFast-Spatial-Temporal-Transformer-2ec2a0bdb54f80a691c9faa407b533e0?source=copy_link) and [📂Github Link](https://github.com/hyeonwoo-Seol/SlowFast-SP-Transformer) | 2025.09 ~ 2025.11 |
 
-I have deep-dived into the lastest AI trend by reading and analyzing 18 research papers (2026-03-03). Detailed summaries and insights from these reviews can be found at my Notion Link. [Notion Link](https://www.notion.so/2c52a0bdb54f80248db3cda1a79fe93b?source=copy_link)
+## 📃 Paper Review Experience
 
-<!--
-**hyeonwoo-Seol/hyeonwoo-Seol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have deep-dived into the lastest AI trend by reading and analyzing 18 research papers (Last Update: 2026-03-03).
+> Detailed summaries and insights from these reviews can be found at my Notion Link. [📝Notion Link](https://www.notion.so/2c52a0bdb54f80248db3cda1a79fe93b?source=copy_link)
