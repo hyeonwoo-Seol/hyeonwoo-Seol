@@ -1,6 +1,6 @@
 ## 🔍 About Me
 
-Hello~! I am HyeonU Seol, an aspiring AI researcher majoring in Computer Engineering at Tech University of Korea (Class of Feb 2027). 
+Hello! I am HyeonU Seol, an aspiring AI researcher majoring in Computer Engineering at Tech University of Korea (Class of Feb 2027). 
 
 My research interests lie at the intersection of **Computer Vision AI** and **Efficient Deep Learning**.
 
@@ -24,10 +24,11 @@ My research interests lie at the intersection of **Computer Vision AI** and **Ef
 
 | Project Name | Key Objective & Focus | Resources | Date |
 | :---: | :---: | :---: | :---: |
-| **MLP-Spatial and Factorized-Temporal Transformer for Action Recognition** | **Architectural Efficiency and Optimization for Spatio-Temoral Modeling** | [📝Notion Link](https://www.notion.so/MLP-Spatial-and-Factorized-Temporal-Transformer-2ec2a0bdb54f80f797c5c1ab8a1ccde0?source=copy_link) and [📂Github Link](https://github.com/hyeonwoo-Seol/Spatial-MLP-Temporal-Attention) | 2025.12 ~ 2026.01 |
-| **Two-Stream Spatial-Temporal Transformer for Action Recognition** | **Maximizing model performance in Action Recognition Task** | [📝Notion Link](https://www.notion.so/SlowFast-Spatial-Temporal-Transformer-2ec2a0bdb54f80a691c9faa407b533e0?source=copy_link) and [📂Github Link](https://github.com/hyeonwoo-Seol/SlowFast-SP-Transformer) | 2025.09 ~ 2025.11 |
+| **MLP-Spatial and Factorized-Temporal Transformer for Action Recognition** | **Efficiency and Optimization** | [📝Notion](https://www.notion.so/MLP-Spatial-and-Factorized-Temporal-Transformer-2ec2a0bdb54f80f797c5c1ab8a1ccde0?source=copy_link) <br> [📂Github](https://github.com/hyeonwoo-Seol/Spatial-MLP-Temporal-Attention) | 2025.12 ~ 2026.01 |
+| **Two-Stream Spatial-Temporal Transformer for Action Recognition** | **Maximizing model performance** | [📝Notion](https://www.notion.so/SlowFast-Spatial-Temporal-Transformer-2ec2a0bdb54f80a691c9faa407b533e0?source=copy_link) <br> [📂Github](https://github.com/hyeonwoo-Seol/SlowFast-SP-Transformer) | 2025.09 ~ 2025.11 |
 
 ## 📃 Paper Review Experience
 
 I have deep-dived into the lastest AI trend by reading and analyzing 18 research papers (Last Update: 2026-03-03).
 > Detailed summaries and insights from these reviews can be found at my Notion Link. [📝Notion Link](https://www.notion.so/2c52a0bdb54f80248db3cda1a79fe93b?source=copy_link)
+
