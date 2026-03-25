@@ -29,6 +29,6 @@ My research interests lie at the intersection of **Computer Vision AI** and **Ef
 
 ## 📃 Paper Review Experience
 
-I have deep-dived into the lastest AI trend by reading and analyzing 18 research papers (Last Update: 2026-03-03).
+I have deep-dived into the lastest AI trend by reading and analyzing 21 research papers (Last Update: 2026-03-26).
 > Detailed summaries and insights from these reviews can be found at my Notion Link. [📝Notion Link](https://www.notion.so/2c52a0bdb54f80248db3cda1a79fe93b?source=copy_link)
 
